@@ -43,6 +43,6 @@ Apasionado de la tecnología y busco iniciar un nuevo camino profesional como An
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Tableu-FF1500?style=for-the-badge&logo=Tableu&logoColor=white" alt="tableu"/>
+ <img decoding="async" src="https://img.shields.io/badge/Tableu-181818?style=for-the-badge&logo=Tableu&logoColor=white" alt="tableu"/>
   </a>
 </div>
