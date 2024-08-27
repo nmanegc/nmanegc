@@ -38,7 +38,7 @@ Apasionado de la tecnología y busco iniciar un nuevo camino profesional como An
   </a>
     <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="spreadsheets"/>
+ <img decoding="async" src="https://img.shields.io/badge/Spreadsheets-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="spreadsheets"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
