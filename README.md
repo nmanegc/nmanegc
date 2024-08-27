@@ -27,9 +27,9 @@ Apasionado de la tecnología y busco iniciar un nuevo camino profesional como An
 
 * :heartbeat: Me encanta descubrir insigths en los datos y la poibilidad de que esta tarea se haga lo mas sencillo posible
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-garcia-acuña/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Nelson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-garcia-acuña/)
 
-* ---
+---
 
 ### :hammer_and_wrench: Lenguajes y herramientas:
 
