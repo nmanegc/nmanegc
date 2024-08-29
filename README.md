@@ -1,5 +1,6 @@
+ <div id="header" align="center">
 ## Hola soy Nelson, encantado de conocerte! 👋
----
+</div>
 <!--
 **nmanegc/nmanegc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ---
- <div id="header" align="center">
+ <div id="header" align="left">
 
 ### 👨‍💻: Sobre mí: 
 Apasionado de la tecnología y busco iniciar un nuevo camino profesional como Analista de Datos.
