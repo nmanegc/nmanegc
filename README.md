@@ -45,7 +45,10 @@ Apasionado de la tecnología y busco iniciar un nuevo camino profesional como An
  <img decoding="async" src="https://img.shields.io/badge/Tableau-181818?style=for-the-badge&logo=Tableu&logoColor=white" alt="tableau"/>
   </a>
 </div>
+
+---
 ### :fire: Mis estadísticas:
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nmanegc&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmanegc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
