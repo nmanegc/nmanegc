@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
- <div id="header" align="left">
+<div id="header" align="left">
 
 ### 👨‍💻: Sobre mí: 
 Apasionado de la tecnología y busco iniciar un nuevo camino profesional como Analista de Datos.
@@ -43,6 +42,8 @@ Apasionado de la tecnología y busco iniciar un nuevo camino profesional como An
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Tableu-181818?style=for-the-badge&logo=Tableu&logoColor=white" alt="tableu"/>
+ <img decoding="async" src="https://img.shields.io/badge/Tableau-181818?style=for-the-badge&logo=Tableu&logoColor=white" alt="tableau"/>
   </a>
 </div>
+## 📊 My stats
+<img align="center" width="600" alt="Data" src="general.svg">
