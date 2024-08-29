@@ -1,6 +1,7 @@
- <div id="header" align="center">
-## Hola soy Nelson, encantado de conocerte! 👋
+<div id="header" align="center">
+<h2 Hola soy Nelson, encantado de conocerte! 👋</h2>
 </div>
+ 
 <!--
 **nmanegc/nmanegc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
