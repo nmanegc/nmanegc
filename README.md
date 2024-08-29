@@ -1,5 +1,5 @@
-## Hola soy Nelson, encantado de conocerte! 👋
-
+<h2 style="text-align: center;">Hola soy Nelson, encantado de conocerte! 👋</h3>
+---
 <!--
 **nmanegc/nmanegc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
